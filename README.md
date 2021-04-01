@@ -1,6 +1,6 @@
 ## Mastering Markdown and GFM
 
-Mastering Markdown and GitHub Flavoured Markdown is a free course by [JS Bangladesh][1] YouTube channel.
+Mastering Markdown and GitHub Flavored Markdown is a free course by [JS Bangladesh][1] YouTube channel.
 
 > <img src="./icon.jpg" width="30"><br>
 
