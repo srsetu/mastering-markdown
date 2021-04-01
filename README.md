@@ -6,7 +6,7 @@ Mastering Markdown and GitHub Flavoured Markdown is a free course by [JS Banglad
 
 [1]: https://youtube.com/JSBagladesh
 
-### Rocources
+### Resources
 
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax)
 - [Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
